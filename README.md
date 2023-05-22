@@ -1,3 +1,3 @@
-- Это мой пример landing-page, простой сайт, [посмотрите сами](https://maximbesperstov.github.io/Project/)
+- Это мой пример landing-page, простой сайт, [посмотрите сами](https://maximbesperstov.github.io/MyCompany_Landing/)
 - используется пара цветовых оттенков
 - js для меню
